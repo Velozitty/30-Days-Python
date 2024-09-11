@@ -21,3 +21,10 @@ radius = int(input("Enter a radius: "))
 pi = 3.14
 print(f"the area of the circle: {radius * radius * pi}")
 print(f"the circumference of the circle: {radius * 2 * pi}")
+
+y1 = -2 
+y2 = 0 
+#y2-y1 / x2 - x1 = slope... (y/2) + 2 = x 
+x1 = 3
+x2 = 4
+slope = (y2 - y1) / (x2 - x1)
